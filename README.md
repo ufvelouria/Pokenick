@@ -1,2 +1,2 @@
 # Pokenick
-Configurable SpongeForge / Pixelmon plugin that lets you nickname pokemon with colored nickanmes.
+Configurable SpongeForge / Pixelmon plugin that lets you nickname pokemon with colored nicknames.
